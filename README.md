@@ -1,3 +1,3 @@
 # Este es un repositorio inicializado localmente
 
-Aquí colocaré su descripción
+Lorem ipsum dolor et
